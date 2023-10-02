@@ -30,8 +30,8 @@ The Kafka console consumer will start, and you should see messages from the spec
 ![Capture d’écran 2023-10-01 ii](https://github.com/Dembelinho/demo-springcloud-kafka/assets/110602716/22c8f65e-48c5-4bd6-81b1-50acf60d2af0)
 
 
-    
-![Capture d’écran (22)](https://github.com/Dembelinho/demo-springcloud-kafka/assets/110602716/822fa05b-e032-4de2-8101-a6e6e8ed09f6)
+![Capture d’écran (22)](https://github.com/Dembelinho/demo-springcloud-kafka/assets/110602716/cf2ca6b4-de4d-46c7-af65-d3692ec9c3ba)
+
 
 
 
